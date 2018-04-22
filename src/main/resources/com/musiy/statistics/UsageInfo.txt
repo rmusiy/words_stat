@@ -1,0 +1,3 @@
+Stat v0.1
+To start type in cmd:
+  java Stat <filename>
